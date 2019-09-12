@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tomcrites
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://tomcrites.net
+  * I am tomcrites (https://keybase.io/tomcrites) on keybase.
+  * I have a public key ASA2XYR0IN-e6dkouhOoN0liar0SfJOrQ9abQCCJHNFSzQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fc92cfc4591d8088b40cde45d64399336dcabf5d93d0552b8cd8200fcce736cd0a",
+      "host": "keybase.io",
+      "kid": "0120365d847420df9ee9d928ba13a83749626abd127c93ab43d69b4020891cd152cd0a",
+      "uid": "03c24230ed10f2c43f7686e10f8b4619",
+      "username": "tomcrites"
+    },
+    "merkle_root": {
+      "ctime": 1568247064,
+      "hash": "df095440b8399a1c51f7e3f5d954b64985322797f2cc9e0c499a83e237b69e4c55fbdeb58cd06ae3041e8d3afed55fd787760f9df528b3180b0d502b130304ae",
+      "hash_meta": "eaa3c44982bf2fbc2deea30e7a6533680c45342da8d97a86327e83c5af10eb1f",
+      "seqno": 6844787
+    },
+    "service": {
+      "entropy": "oATW1+MoM7MX3qnOo28L5BMh",
+      "hostname": "tomcrites.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568247080,
+  "expire_in": 504576000,
+  "prev": "55db403ed2889c9ea82dfb2a58d080645796afc1fff1740ab9453770ef48446e",
+  "seqno": 26,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNl2EdCDfnunZKLoTqDdJYmq9EnyTq0PWm0AgiRzRUs0Kp3BheWxvYWTESpcCGsQgVdtAPtKInJ6oLfsqWNCAZFeWr8H/8XQKuUU3cO9IRG7EIBmgjM/NymgHnQD71IlAXpRfH191IZPETrRAsrhwk9ClAgHCo3NpZ8RAj2m2YsD+7fXy5d6nVXNaxtAOMxrF0W52eBucdnaLKc94Uwi1fdoz6AjAFut6YDwC0uGkRcxWs81twjVPHdJzBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEopPdlJZW7t21G0qgJqubeNHWTJE/7nmjhS5ht7sz/Xo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tomcrites
+
+==================================================================
